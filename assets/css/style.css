@@ -129,3 +129,29 @@ aside {
     /*width: 960px;*/
     width: 100%;
 }
+
+.portpic {
+    height: 200px;
+    width: 200px;
+    padding-left: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* I Have No clue how to get the teal banner to show over the images*/
+
+/*.over {*/
+    /*background: #4aaaa5;*/
+    /*font-size: 16px;*/
+    /*margin-left: 60px;*/
+    /*height: 30px;*/
+    /*width: 200px;*/
+/*}*/
+
+#submit {
+    height: 60px;
+    width: 150px;
+    background: #4aaaa5;
+    color: #ffffff;
+    font-size: 16px;
+}
